@@ -2,7 +2,7 @@
 
 *I am a Software Developer and a programmer*
 
-*Do you want to be one too? Check out my youtube <a href="https://www.youtube.com/channel/UCvhdQsBjDet_5WVbIwPJYVg" target="_blank" rel="noopener">HighTarun</a>.*
+#*Do you want to be one too? Check out my youtube <a href="https://www.youtube.com/channel/UCvhdQsBjDet_5WVbIwPJYVg" target="_blank" rel="noopener">HighTarun</a>.*
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/hightarun?style=social)](https://twitter.com/hightarun)
 
