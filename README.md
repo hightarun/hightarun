@@ -1,6 +1,5 @@
 <h2> Hi, I'm Tarun <img src="https://media3.giphy.com/media/qP2YwW2BpB2K0qMjMk/giphy.gif" width="200"></h2>
 
-*I am a Software Developer and a programmer*
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/hightarun?style=social)](https://twitter.com/hightarun)
@@ -19,6 +18,6 @@
 [website]: https://fb.me/hightarun
 [facebook]: https://fb.me/hightarun
 [twitter]: https://twitter.com/hightarun
-[youtube]: https://www.youtube.com/channel/UCvhdQsBjDet_5WVbIwPJYVg
+[youtube]: https://www.youtube.com/@svadhayay
 [instagram]: https://instagram.com/hightarun
 [linkedin]: https://linkedin.com/in/hightarun
